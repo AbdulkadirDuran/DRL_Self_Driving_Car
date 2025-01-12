@@ -15,3 +15,7 @@ Python, Pytorch, Kivy, Numpy, Matplotlib
 
 ![Video Demo](Result_videos/Video_1.mp4)
 ![Video Demo](Result_videos/Video_2.mp4)
+<video width="640" height="360" autoplay loop muted controls>
+  <source src="Result_videos/Video_1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
